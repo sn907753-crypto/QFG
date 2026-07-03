@@ -1,0 +1,6 @@
+To publish this site publicly:
+1. Create a GitHub repository and upload these files.
+2. Open https://netlify.com or https://vercel.com.
+3. Import the repository.
+4. Deploy the project.
+5. Use the generated public URL on your phone.
